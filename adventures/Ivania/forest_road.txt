@@ -1,0 +1,3 @@
+[north: castle_town, south: start]
+
+You are standing on a forest road that leads to the local town. It is surrounded by trees, and it is quite a long road.. The green is lovely, and there is a lake nearby.. There are animals everywhere, some of them friendly, some of them not so much.. 

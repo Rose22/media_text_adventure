@@ -1,0 +1,8 @@
+Ivania 1.0
+A demo game for the MediaTextAdventure engine
+
+Type "go <destination>" to go somewhere ^^
+
+For example:
+go north
+will walk you north :)
