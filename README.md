@@ -5,6 +5,9 @@ It reads from a directory of text files structured in a particular way, and uses
 
 The typewriter makes a sound for every character displayed, which enhances the feel. Coupled with background music, this becomes a multimedia experience instead of just text that you read. There are little sounds for walking to places, quitting the game, etc.
 
+# Requirements
+You need python and pygame installed on your system, to use MediaTextAdventure.
+
 # How to create your own adventures
 In the adventures/ folder, just create a folder for your adventure.
 First off, you will need to create a "start.txt" file. This will be where your player starts the game.
